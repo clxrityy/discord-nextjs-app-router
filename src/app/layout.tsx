@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
     title: "Nextjs Discord Bot Boilerplate",
-    description: ""
+    description: "",
 }
 
 export default function RootLayout({
